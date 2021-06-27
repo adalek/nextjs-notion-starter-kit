@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Xuwen Dong',
-  domain: 'dongxuwen.it',
+  domain: 'https://www.notion.so/My-Website-87f914fe5f4649af805a8774ecfdf177',
   author: 'Xuwen Dong',
 
   // open graph metadata (optional)
