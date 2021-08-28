@@ -150,13 +150,13 @@ export const NotionPage: React.FC<types.PageProps> = ({
       )
     }
 
-    const tweet = getPageTweet(block, recordMap)
-    if (tweet) {
-      pageAside = <PageActions tweet={tweet} />
-    }
-  } else {
-    pageAside = <PageSocial />
-  }
+    //const tweet = getPageTweet(block, recordMap)
+    //if (tweet) {
+      //pageAside = <PageActions tweet={tweet} />
+    //}
+  //} else {
+    //pageAside = <PageSocial />
+  //}
 
   return (
     <TwitterContextProvider
