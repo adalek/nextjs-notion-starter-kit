@@ -44,7 +44,7 @@ export const Footer: React.FC<{
         {config.twitter && (
           <a
             className={styles.twitter}
-            href={`https://twitter.com/${config.twitter}`}
+            href={`https://wp.nyu.edu/${config.twitter}`}
             title={`Twitter @${config.twitter}`}
             target='_blank'
             rel='noopener noreferrer'
