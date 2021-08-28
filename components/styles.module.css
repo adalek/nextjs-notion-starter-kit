@@ -63,7 +63,7 @@
 .settings,
 .social {
   user-select: none;
-  padding-left:10%;
+  padding: 0;
 }
 
 .settings a,
