@@ -40,7 +40,7 @@ export const Footer: React.FC<{
         </div>
       ) : null}
 
-      <div className={styles.social}>
+      <div className={styles.social} style='padding-left: 10%'>
         {config.twitter && (
           <a
             className={styles.twitter}
