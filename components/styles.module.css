@@ -60,10 +60,13 @@
   padding: 0.5em;
 }
 
-.settings,
-.social {
+.settings {
   user-select: none;
   padding: 0;
+}
+.social {
+  user-select: none;
+  padding: 10%;
 }
 
 .settings a,
